@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d27307be.css",
+    "main.js": "/static/js/main.1f2f1631.js",
+    "static/media/sueldo-basico-ecuador-2023.webp": "/static/media/sueldo-basico-ecuador-2023.c82e515683343432d857.webp",
+    "static/media/SBE.jpg": "/static/media/SBE.e468b592d33b956a56c4.jpg",
+    "static/media/save.svg": "/static/media/save.497b3354edbae9f649b86e5389fc1e58.svg",
+    "index.html": "/index.html",
+    "main.d27307be.css.map": "/static/css/main.d27307be.css.map",
+    "main.1f2f1631.js.map": "/static/js/main.1f2f1631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d27307be.css",
+    "static/js/main.1f2f1631.js"
+  ]
+}
